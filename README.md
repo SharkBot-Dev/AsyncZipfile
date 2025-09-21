@@ -1,0 +1,2 @@
+# AsyncZipfile
+zipfileというライブラリを非同期で使えるようにしたものです。
